@@ -29,7 +29,8 @@ You ready?? Let's do it - we got this ☕️🫶
 "Forking" is done with the fork button.
 Fork means will create a copy of this repository in your github account 💪
 
-[screen shot] 
+<img width="1281" alt="Screenshot 2023-05-29 at 11 48 15" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/b059d2f4-dc81-4969-a29f-c8efd42f835e">
+
 
 Now that you have the copy on your account, lets bring the entire project on your local computer!
 
@@ -39,7 +40,8 @@ Set up Git on your [computer]([url](https://docs.github.com/en/get-started/quick
 
 Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 
-[screenshot]
+<img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
+
 
 Open your terminal and run the following git command:
 
