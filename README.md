@@ -8,21 +8,21 @@ To fully understand what the below steps do, we essentially want to :
 
 **1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
-In what does that mean in normal language 🙈:
+What does that mean in normal language? 🙈:
 
-1. Make a copy of the project on your Github account 
-2. Dowload the project from Github on your computer
-3. Edit a couple of things in a file ( you will help write the greatest story the world has ever heard and this will be your contribution to the project 🔥 ) 
-4. Update and send the changes to your online Github project
-5. Send your contribution to the original github repository (for them to review)
+1. Fork: Make a **copy of the project** on your Github account 
+2. Clone: **Dowload the project** from Github on your computer
+3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** ) 
+4. Push: **Update and send the changes** to your online Github repository
+5. Pull: **Send your contribution to the original github repository** (for them to later review..)
 
-That may sound still a bit intimidating, but don't worry I got you! 
+That may sound still a bit intimidating, but don't worry I got you! 👯‍♀️
 
 Btw, the above steps shown are how all the devs in the world contribute to software projects online! 
 
-With this project, you will have a great undersanding of the mechanics with Github so you are ready for your next contribution! 
+With this project, you will have a great undersanding of the mechanics behind Github so that you are ready for your next contribution! 
 
-You ready?? Let's do it - we got this ☕️🫶
+You reeeeeady?? Let's do it - we got this ☕️🫶
 
 Requirement: If not already done, download Git [here]([url](https://docs.github.com/en/get-started/quickstart/set-up-git)).
 
@@ -45,8 +45,6 @@ After step 1, you will land on your forked repo page, here you will see a `<>` b
 Open your terminal, move to a directory of your choice and run the following git command:
 
 `git clone "url you just copied" `
-
-[screen shot] 
 
 ## 4. Open the File and Make changes
 
