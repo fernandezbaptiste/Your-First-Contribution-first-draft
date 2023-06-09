@@ -86,26 +86,20 @@ In here, we have essentially "added" all the changes, added a commit message (wh
 
 ## 6. Convert your changes from your repo to the original repo 
 
-Go now to your forked github repo page online, `sync` your fork and then there you will see a button in green which says `Open Pull request`
-Open pull request
-, press it and in the comments section type "Adding my name to contributer list" and press on 
+Go now to your forked github repo page online, click on the `Contribute ` button and then `Open pull request` 
+
+![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
+*This is an example of pulling a request for another repo so don't worry about the name being different*
+
+You will then title your pull request with "Name Surname - adding my part of the story" and you can leave the comment section blank.
+
+Click `Create pull request ` and that's it you have made your first contribution! 
+
+We will review the best sentences added and accept the ones we think are cool and relevant to the story! 
+
+Really well done on this, we know its super tough to do it the first time and its really cool you got to this point - so proud of you! 👯‍♀️💚
 
 
+If you haven't You could join our discord team if you need any help or have any questions.
 
-If you go to the project directory and execute the command git status, you'll see there are changes.
-
-Add those changes to the branch you just created using the git add command:
-
-git add Contributors.md
-Now commit those changes using the git commit command:
-
-git commit -m "Add your-name to Contributors list"
-replacing your-name with your name.
-
-
-
-Celebrate your contribution and share it with your friends and followers by going to web app.
-
-You could join our discord team if you need any help or have any questions.
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects in the web app.
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on quine.sh [quine.sh]([url](www.quine.sh)🚀
