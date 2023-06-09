@@ -80,7 +80,7 @@ Right after write:
 Finally:
 `git push ` 
 
-At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 
+At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
 Write out your Github username first. 
 For your password, ever since Agu 2021, it is a personal token you need to write (and not your actual password!). 
@@ -92,10 +92,10 @@ To get this token, head on Github to:
 
 Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
 
-Here, we have essentially:
-- "added" all the changes
--  added a commit message (which helps tell other devs what you have changed) and 
--  pushed the changes into your online Github repository. 
+To recap, we have here:
+- ➕ "added" all the changes
+- 💬 added a commit message (which helps tell other devs what you have changed) and 
+- 💾 pushed the changes into your online Github repository. 
 
 ## 6. Time to contribute! Send your changes from your online repo to the original repo 
 
@@ -131,6 +131,6 @@ All in all, all contributions happen in this way with the maintainer(s) of the o
 Really well done on this friend! We know it is super tough the first time and its really cool you got to this point - so proud of you! 👯‍♀️💚
 
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on  [quine.sh]([https:// quine.sh/](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution))🚀
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on  [quine.sh](https:// quine.sh/](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
 
 If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
