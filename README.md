@@ -11,16 +11,16 @@ To fully understand what the below steps do, we essentially want to :
 What does that mean in normal language? 🙈:
 
 1. Fork: Make a **copy of the project** on your Github account 
-2. Clone: **Dowload the project** from Github on your computer
+2. Clone: **Download the project** from Github on your computer
 3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** ) 
 4. Push: **Update and send the changes** to your online Github repository
-5. Pull: **Send your contribution to the original github repository** (for them to later review..)
+5. Pull: **Send your contribution to the original Github repository** (for them to later review..)
 
 That may sound still a bit intimidating, but don't worry I got you! 👯‍♀️
 
-Btw, the above steps shown are how all the devs in the world contribute to software projects online! 
+Btw, this is how all the devs in the world contribute to software projects online! 
 
-With this project, you will have a great undersanding of the mechanics behind Github so that you are ready for your next contribution! 
+With this project, you will have a great understanding of the mechanics behind Github so that you are ready for your next contribution! 
 
 You reeeeeady?? Let's do it - we got this ☕️🫶
 
@@ -59,15 +59,15 @@ Here you will see the project which you will contribute to. 💪
 
 The project is a story told by many developers around the planet - one contribution at a time!
 
-This means, each sentence you are reading was written in the past by different coders out there. 
+This means each sentence you are reading was written in the past by different coders out there. 
 
-And now its your turn to add the next sentence 👩‍🎨
+And now it's your turn to add the next sentence! 👩‍🎨
 
 Think of something that would make sense in the storyline and write one or two sentences.
 
-When done, save the file!
+When done, save the file.
 
-## 5. Upload your changes to your online github repo
+## 5. Upload your changes to your online Github repo
 
 OK, we got some changes done, now we need to upload them to our Github account.
 
@@ -85,7 +85,7 @@ At this point, if this is your first time, Github will ask you to authenticate y
 Write out your Github username first. 
 For your password, ever since Agu 2021, it is a personal token you need to write (and not your actual password!). 
 
-Don't you worry though, let's get your token together. ☺️
+Don't worry though, let's get your token together. ☺️
 
 To get this token, head on Github to: 
 `profile setting ` -> `developer setting ` -> `Personal Access Tokens (Token Classic) ` -> `Generate new token (classic) ` -> give a name e.g "authentification token" -> select the scopes you want (for ease you can select all of them) -> click on `Generate token `
@@ -103,7 +103,7 @@ We are so close 🤙
 
 All we need to do is now send over our changes to the original repository to make our contribution. 
 
-In Github language, this is called **"pulling a request"** because you essentially "pull" your changes into the main repository. 
+In "Github language", this is called **"pulling a request"** because you essentially "pull" your changes into the main repository. 
 
 Go now to your Github repo page online, click on the `Contribute ` button and then `Open pull request` 
 
@@ -120,7 +120,7 @@ Click `Create pull request ` and that's it you have made your first contribution
 I know, crazy right? 
 
 
-You may be thinking, I thought I would be taken to the repository straight away but I'm left with a status of the pull requestion.
+You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request.
 
 
 YES, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
@@ -128,9 +128,9 @@ YES, this is because now we will review the best sentences added and accept the 
 All in all, all contributions happen in this way with the maintainer(s) of the original repository checking your contributions and either accepting them or giving you feedback on what changes they need from you. 
 
 
-Really well done on this friend! We know it is super tough the first time and its really cool you got to this point - so proud of you! 👯‍♀️💚
+Really well done on this friend! We know it is super tough the first time and it's really cool you got to this point - so proud of you! 👯‍♀️💚
 
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on  [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
 
 If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
