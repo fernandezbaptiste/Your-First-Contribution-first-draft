@@ -71,20 +71,22 @@ When done, save the file!
 
 OK, we got some changes done, now we need to upload them to our Github account.
 
-In your terminal, type 
+In your terminal, write and press Enter for:
 `git add . ` 
 
-right after type
+Right after write:
 `git commit -m "your name" `
 
-and finally
+Finally:
 `git push ` 
 
-Github will ask you to authenticate yourself with your username and password. 
+At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 
 
-Write out your Github username and for your password, ever since Agu 2021, it is a personal token you need to write (and not your actual password!). 
+Write out your Github username first. 
+For your password, ever since Agu 2021, it is a personal token you need to write (and not your actual password!). 
 
-Don't you worry though, let's get your token together. 😊☺️
+Don't you worry though, let's get your token together. ☺️
+
 To get this token, head on Github to: 
 `profile setting ` -> `developer setting ` -> `Personal Access Tokens (Token Classic) ` -> `Generate new token (classic) ` -> give a name e.g "authentification token" -> select the scopes you want (for ease you can select all of them) -> click on `Generate token `
 
@@ -101,28 +103,34 @@ We are so close 🤙
 
 All we need to do is now send over our changes to the original repository to make our contribution. 
 
-In Github language, this is called "pulling a request" because you essentially "pull" your changes into the main repository. 
+In Github language, this is called **"pulling a request"** because you essentially "pull" your changes into the main repository. 
 
 Go now to your Github repo page online, click on the `Contribute ` button and then `Open pull request` 
 
 ![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
 *This is an example of pulling a request for another repo so don't worry about the name being different*
 
-You will then title your pull request with "Name Surname - adding my part of the story" and you can leave the comment section blank.
+--
 
-Click `Create pull request ` and that's it you have made your first contribution!!
+You will then title your pull request with your *"Name Surname - adding my part of the story"* and you can leave the comment section blank.
+
+Click `Create pull request ` and that's it you have made your first contribution!! 🚀👯‍♀️
+
 
 I know, crazy right? 
 
+
 You may be thinking, I thought I would be taken to the repository straight away but I'm left with a status of the pull requestion.
 
-YES, this is because now 
 
-We will review the best sentences added and accept the ones we think are cool and relevant to the story! 
+YES, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
 
-Really well done on this, we know it is super tough to do it the first time and its really cool you got to this point - so proud of you! 👯‍♀️💚
+All in all, all contributions happen in this way with the maintainer(s) of the original repository checking your contributions and either accepting them or giving you feedback on what changes they need from you. 
 
 
-If you haven't yet, you could join our discord team if you need any help or have any questions.
+Really well done on this friend! We know it is super tough the first time and its really cool you got to this point - so proud of you! 👯‍♀️💚
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on  [quine.sh](https:// quine.sh/)🚀
+
+Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out the list of projects on  [quine.sh]([https:// quine.sh/](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution))🚀
+
+If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
