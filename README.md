@@ -6,7 +6,7 @@ In the next 10 min, you will contribute to your first Open Source projects - how
 
 To fully understand what the below steps do, we essentially want to :
 
-**1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull **
+**1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
 In what does that mean in normal language 🙈:
 
