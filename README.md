@@ -28,7 +28,7 @@ Requirement: If not already done, download Git [here](https://git-scm.com/downlo
 
 ## 1. Fork the project
 
-First click on `⭐️ star` in the right corner (to show some love 🫶💁‍♀️) and then click on the `fork` button.
+First, click on `⭐️ star` in the right corner (to show some love 🫶💁‍♀️) and then click on the `fork` button.
 
 Fork means you will create a copy of this repository in your own Github account. 💪
 
@@ -54,7 +54,7 @@ The entire project is now on your computer!
 On your terminal, make sure that you are in the project by running:
 `cd Your-First-Contribution`
 
-Now open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS code, Atom, PyCharm, Sublime etc). 
+Now open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
 Here you will see the project which you will contribute to. 💪
 
