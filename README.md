@@ -12,23 +12,23 @@ What does that mean in normal language? 🙈
 
 1. Fork: Make a **copy of the project** on your Github account 
 2. Clone: **Download the project** from Github on your computer
-3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** ) 
+3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
 4. Push: **Update and send the changes** to your online Github repository
 5. Pull: **Send your contribution to the original Github repository** (for them to later review..)
 
-That may sound still a bit intimidating, but don't worry I got you! 👯‍♀️
+That may sound a bit intimidating, but don't worry I got you! 👯‍♀️
 
-Btw, this is how all the devs in the world contribute to software projects online! 
+Also if you are wondering, YES, this is how all the devs in the world contribute to software projects online! 
 
-With this project, you will have a great understanding of the mechanics behind Github so that you are ready for your next contribution! 
+So in this project you will have a great understanding of the mechanics behind Github so that you are ready for your future contributions! 
 
 You reeeeeady?? Let's do it - we got this ☕️🫶
 
-Requirement: If not already done, download Git [here]([url](https://docs.github.com/en/get-started/quickstart/set-up-git)).
+Requirement: If not already done, download Git [here](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## 1. Fork the project
 
-First click on `star ` (to show some love 🫶💁‍♀️) and then click on the `fork ` button.
+First click on `⭐️ star` in the right corner (to show some love 🫶💁‍♀️) and then click on the `fork` button.
 
 Fork means you will create a copy of this repository in your own Github account. 💪
 
