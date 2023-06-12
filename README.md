@@ -8,7 +8,7 @@ To fully understand what the below steps do, we essentially want to:
 
 **1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
-What does that mean in normal language? 🙈:
+What does that mean in normal language? 🙈
 
 1. Fork: Make a **copy of the project** on your Github account 
 2. Clone: **Download the project** from Github on your computer
