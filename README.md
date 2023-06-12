@@ -4,7 +4,7 @@ Hey you! Welcome to this repository which marks your start in the Open Source Wo
 
 In the next 10 min, you will contribute to your first Open Source projects - how crazyyy is that 🚀
 
-To fully understand what the below steps do, we essentially want to :
+To fully understand what the below steps do, we essentially want to:
 
 **1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
