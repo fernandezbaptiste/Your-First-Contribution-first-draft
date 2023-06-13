@@ -1,6 +1,8 @@
 # Your-First-Contribution
 
-Hey you! Welcome to this repository which marks your start in the Open Source World!! 🌐👯‍♀️
+Hey friend! 👋 
+
+Welcome to this repository which marks your start in the Open Source World!! 🌐👯‍♀️
 
 In the next 10 min, you will contribute to your first Open Source projects - how crazyyy is that 🚀
 
@@ -8,7 +10,7 @@ To fully understand what the below steps do, we essentially want to:
 
 **1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
-What does that mean in normal language? 🙈
+### What does that mean in normal language? 🙈
 
 1. Fork: Make a **copy of the project** on your Github account 
 2. Clone: **Download the project** from Github on your computer
@@ -25,6 +27,8 @@ So in this project you will have a great understanding of the mechanics behind G
 You reeeeeady?? Let's do it - we got this ☕️🫶
 
 Requirement: If not already done, download Git [here](https://git-scm.com/downloads).
+
+ - - - -
 
 ## 1. Fork the project
 
@@ -44,22 +48,22 @@ Now that you have the copy on your own account, let's download the entire projec
 
 <img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
 
-3️⃣ Open your terminal 
+3️⃣ Open your terminal.
 
 4️⃣ Use your terminal to move to a folder where you want to put the cloned project (using more technical language, this is called moving to a directory of your choice). 📁 
 
-5️⃣ Type `git clone` and then paste the URL copied earlier
+5️⃣ Type `git clone` and then paste the URL copied earlier.
 
 You normally should have written 
 `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 
-6️⃣ Press Enter
+6️⃣ Press Enter.
 
 ## 3. Open the File and Make changes
 
 The entire project is now on your computer! 
 
-1️⃣ On your terminal, make sure that you are in the project (or directory 😉) by running: `cd Your-First-Contribution`
+1️⃣ On your terminal, make sure that you are in the project (or directory 😉) by running: `cd Your-First-Contribution`.
 
 2️⃣ Open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
@@ -84,11 +88,11 @@ In summary here we want to:
 - 💬 add a commit message (which helps tell other devs what you have changed) and 
 - 💾 push the changes to your online Github repository. 
 
-1️⃣ So in your terminal, run the following command: `git add .`.
+1️⃣ So in your terminal, run the following command: `git add .`
 
-2️⃣ After that, run: `git commit -m "description of what you changed/added"`.
+2️⃣ After that, run: `git commit -m "description of what you changed/added"`
 
-3️⃣ Finally, run: `git push`.
+3️⃣ Finally, run: `git push`
 
 At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
@@ -111,7 +115,7 @@ At this point, you should be here ⬇️:
 
 6️⃣ Select the scopes you want (for ease you can select all of them).
 
-7️⃣ Click on `Generate token`.
+7️⃣ Click on `Generate token`
 
 8️⃣ Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
 
@@ -126,7 +130,7 @@ In "Github language", this is called **"pulling a request"** because you essenti
 
 1️⃣ Go now to your Github repo page online.
 2️⃣ Click on the `Contribute` button.
-3️⃣ Click on `Open pull request`.
+3️⃣ Click on `Open pull request`
 
 ![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
 *This is an example of pulling a request for another repo so don't worry about the name being different*
