@@ -34,23 +34,23 @@ Fork means you will create a copy of this repository in your own Github account.
 
 <img width="1281" alt="Screenshot 2023-05-29 at 11 48 15" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/b059d2f4-dc81-4969-a29f-c8efd42f835e">
 
-Now that you have the copy on your own account, let's download the entire project on your local computer!
+2️Now that you have the copy on your own account, let's download the entire project on your local computer!
 
 ## 2. Clone the repository
 
-☑ After step 1, you will land on your forked repo page, here you will see a `<>` button marked in green, click on it.
-☑️ Then click on the button looking like a `double square` (highlighted in red below) to copy the URL.
+1️⃣ You should now have landed on your forked repo page, here you will see a `<>` button marked in green, click on it.
+2️⃣ Click on the button looking like a `double square` (highlighted in red below) to copy the URL.
 
 <img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
 
- Open your terminal 
-☑️ Use your terminal to move to a folder where you want to put the cloned project (using more technical language, this is called moving to a directory of your choice). 📁 
-☑️ Then type `git clone` and then paste the URL copied earlier
+3️⃣ Open your terminal 
+4️⃣ Use your terminal to move to a folder where you want to put the cloned project (using more technical language, this is called moving to a directory of your choice). 📁 
+5️⃣ Then type `git clone` and then paste the URL copied earlier
 
 You normally should have written 
 `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 
-☑️ Press Enter
+6️⃣ Press Enter
 
 ## 3. Open the File and Make changes
 
