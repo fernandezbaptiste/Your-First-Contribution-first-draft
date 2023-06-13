@@ -1,4 +1,4 @@
-# List of Amazing Contributors 🚀
+# Contributors 🚀👯‍♀️
 
 <table>
     <tbody>
