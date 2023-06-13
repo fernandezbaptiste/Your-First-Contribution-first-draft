@@ -110,8 +110,6 @@
                     <sub><b>Naga Sai Purvaz</b></sub>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <a href="https://github.com/zsank">
                     <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
@@ -119,5 +117,8 @@
                     <sub><b>Sanket Zade</b></sub>
                 </a>
             </td>
+        </tr>
+        
+            
             
            
