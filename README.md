@@ -4,13 +4,13 @@ Hey friend! 👋
 
 Welcome to this repository which marks your start in the Open Source World!! 🌐👯‍♀️
 
-In the next 10 min, you will contribute to your first Open Source projects - how crazyyy is that 🚀
+In the next 10 min, you will contribute to your first Open Source projects - how crazyyy is that. 🚀
 
-To fully understand what the below steps do, we essentially want to:
+Now when contributing, we want to:
 
 **1. fork -> 2. clone -> 3. edit -> 4. push -> 5. pull**
 
-### What does that mean in normal language? 🙈
+### Now, what does that mean in normal language? 🙈
 
 1. Fork: Make a **copy of the project** on your Github account 
 2. Clone: **Download the project** from Github on your computer
@@ -96,13 +96,17 @@ In summary here we want to:
 
 At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
-4️⃣ Write out your Github username first. For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). Don't worry though, let's get your token together. ☺️
+4️⃣ Write out your Github username first and press Enter. 
 
-5️⃣ Get your token by follwing the below:
+5️⃣ For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). Don't worry though, let's get your token together by following the below: ☺
 
-- Click on `profile setting` 
+- On your Github account, hover to the top right of the page and click on your profile image
+
+- Now click on `profile setting` 
 
 - Click on `developer setting` 
+-
+<img width="175" alt="Screenshot 2023-06-13 at 12 29 38" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/5c1dcbc7-974b-46cd-960c-94d781964726">
 
 - Click on `Personal Access Tokens (Token Classic)`
 
