@@ -34,7 +34,7 @@ Fork means you will create a copy of this repository in your own Github account.
 
 <img width="1281" alt="Screenshot 2023-05-29 at 11 48 15" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/b059d2f4-dc81-4969-a29f-c8efd42f835e">
 
-2️Now that you have the copy on your own account, let's download the entire project on your local computer!
+Now that you have the copy on your own account, let's download the entire project on your local computer!
 
 ## 2. Clone the repository
 
@@ -59,7 +59,7 @@ You normally should have written
 
 The entire project is now on your computer! 
 
-1️⃣ Open your terminal make sure that you are in the project by running: `cd Your-First-Contribution`
+1️⃣ On your terminal, make sure that you are in the project (or directory 😉) by running: `cd Your-First-Contribution`
 
 2️⃣ Open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
@@ -84,33 +84,36 @@ In summary here we want to:
 - 💬 add a commit message (which helps tell other devs what you have changed) and 
 - 💾 push the changes to your online Github repository. 
 
-1️⃣ So in your terminal, run the following command: `git add .` 
+1️⃣ So in your terminal, run the following command: `git add .`.
 
-2️⃣ After that, run: `git commit -m "description of what you changed/added"`
+2️⃣ After that, run: `git commit -m "description of what you changed/added"`.
 
-3️⃣ Finally, run: `git push` 
+3️⃣ Finally, run: `git push`.
 
 At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
-Write out your Github username first. 
-For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). 
+4️⃣ Write out your Github username first. For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). Don't worry though, let's get your token together. ☺️
 
-Don't worry though, let's get your token together. ☺️
+5️⃣ Get your token by follwing the below:
 
-To get this token, head on Github to: 
-1️⃣ Click on `profile setting` 
-2️⃣ Click on `developer setting` 
-3️⃣ Click on `Personal Access Tokens (Token Classic)`
-4️⃣ Click on `Generate new token (classic)`
+- Click on `profile setting` 
 
-This is where you should arrive at this point ⬇️:
+- Click on `developer setting` 
+
+- Click on `Personal Access Tokens (Token Classic)`
+
+- Click on `Generate new token (classic)`
+
+- Give a name e.g "authentification token"
+
+At this point, you should be here ⬇️:
 <img width="1439" alt="Screenshot 2023-06-13 at 12 02 23" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/3711a399-6d47-4861-8505-930330784d53">
 
-5️⃣ Give a name e.g "authentification token"
-6️⃣ Select the scopes you want (for ease you can select all of them) 
-7️⃣ Click on `Generate token`
+6️⃣ Select the scopes you want (for ease you can select all of them).
 
-Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
+7️⃣ Click on `Generate token`.
+
+8️⃣ Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
 
 
 ## 5. Time to contribute! Send your changes from your online repo to the original repo 
@@ -121,9 +124,9 @@ All we need to do is now send over our changes to the original repository to mak
 
 In "Github language", this is called **"pulling a request"** because you essentially "pull" your changes into the original repository that you forked. 
 
-1️⃣ Go now to your Github repo page online
-2️⃣ Click on the `Contribute` button 
-3️⃣ Click on `Open pull request` 
+1️⃣ Go now to your Github repo page online.
+2️⃣ Click on the `Contribute` button.
+3️⃣ Click on `Open pull request`.
 
 ![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
 *This is an example of pulling a request for another repo so don't worry about the name being different*
