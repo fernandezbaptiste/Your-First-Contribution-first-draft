@@ -148,8 +148,9 @@ In "GitHub language", this is called **"pulling a request"** because you essenti
 
 Congraaaaaaaats! ⭐️
 
-You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
+ - - - -
 
+You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
 
 **YES**, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
 
@@ -159,7 +160,8 @@ So sit back and relax as you have just done everything you needed!
 
 We know it is always super tough the first time and it's really cool you got to this point - so proud of you! 👯‍♀️💚
 
-
+ - - - -
+ 
 If you are ready to start contributing to other projects, we have compiled a list of projects with easy issues you can get started on. Check out the list of projects on [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
 
 If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
