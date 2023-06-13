@@ -47,7 +47,7 @@ Then run the following git command:
 
 `git clone "url you just copied"`
 
-## 4. Open the File and Make changes
+## 3. Open the File and Make changes
 
 The entire project is now on your computer! 
 
@@ -68,7 +68,7 @@ Think of something that would make sense in the storyline and write one or two s
 
 When done, save the file!
 
-## 5. Upload your changes to your online Github repo
+## 4. Upload your changes to your online Github repo
 
 OK, we got some changes done, now we need to upload them to our Github account.
 
@@ -99,7 +99,7 @@ To get this token, head on Github to:
 Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
 
 
-## 6. Time to contribute! Send your changes from your online repo to the original repo 
+## 5. Time to contribute! Send your changes from your online repo to the original repo 
 
 We are so close to the end now! 🤙
 
