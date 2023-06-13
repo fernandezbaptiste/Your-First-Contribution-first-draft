@@ -12,17 +12,17 @@ Now when contributing, we want to:
 
 ### Now, what does that mean in normal language? 🙈
 
-1. Fork: Make a **copy of the project** on your Github account 
-2. Clone: **Download the project** from Github on your computer
+1. Fork: Make a **copy of the project** on your GitHub account 
+2. Clone: **Download the project** from GitHub on your computer
 3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
-4. Push: **Update and send the changes** to your online Github repository
-5. Pull: **Send your contribution to the original Github repository**
+4. Push: **Update and send the changes** to your online GitHub repository
+5. Pull: **Send your contribution to the original GitHub repository**
 
 That may sound a bit intimidating, but don't worry I got you! 👯‍♀️
 
 Also if you are wondering, YES, this is how all the devs in the world contribute to software projects online! 
 
-So in this project you will have a great understanding of the mechanics behind Github so that you are ready for your future contributions! 
+So in this project, you will have a great understanding of the mechanics behind GitHub so that you are ready for your future contributions! 
 
 You reeeeeady?? Let's do it - we got this ☕️🫶
 
@@ -34,7 +34,7 @@ Requirement: If not already done, download Git [here](https://git-scm.com/downlo
 
 First, click on `⭐️ star` in the right corner (to show some love 🫶💁‍♀️) and then click on the `fork` button.
 
-Fork means you will create a copy of this repository in your own Github account. 💪
+Fork means you will create a copy of this repository in your own GitHub account. 💪
 
 <img width="1281" alt="Screenshot 2023-05-29 at 11 48 15" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/b059d2f4-dc81-4969-a29f-c8efd42f835e">
 
@@ -79,14 +79,14 @@ And now it's your turn to add the next sentence! 👩‍🎨
 
 4️⃣ When done, save the file!
 
-## 4. Upload your changes to your online Github repo
+## 4. Upload your changes to your online GitHub repo
 
-OK, we got some changes done, now we need to upload them to our Github account.
+OK, we got some changes done, now we need to upload them to our GitHub account.
 
 In summary here we want to:
 - ➕ add all the changes onto git
 - 💬 add a commit message (which helps tell other devs what you have changed) and 
-- 💾 push the changes to your online Github repository. 
+- 💾 push the changes to your online GitHub repository. 
 
 1️⃣ So in your terminal, run the following command: `git add .`
 
@@ -94,19 +94,17 @@ In summary here we want to:
 
 3️⃣ Finally, run: `git push`
 
-At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
+At this point, if this is your first time, GitHub will ask you to authenticate yourself with your username and password. 🔐
 
-4️⃣ Write out your Github username first and press Enter. 
+4️⃣ Write out your GitHub username first and press Enter. 
 
 5️⃣ For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). Don't worry though, let's get your token together by following the below: ☺
 
-- On your Github account, hover to the top right of the page and click on your profile image
+- On your GitHub account, hover to the top right of the page and click on your profile image
 
 - Now click on `profile setting` 
 
-- Click on `developer setting` 
--
-<img width="175" alt="Screenshot 2023-06-13 at 12 29 38" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/5c1dcbc7-974b-46cd-960c-94d781964726">
+- Find and Click on `developer setting`
 
 - Click on `Personal Access Tokens (Token Classic)`
 
@@ -130,9 +128,9 @@ We are so close to the end now! 🤙
 
 All we need to do is now send over our changes to the original repository to make our contribution. 
 
-In "Github language", this is called **"pulling a request"** because you essentially "pull" your changes into the original repository that you forked. 
+In "GitHub language", this is called **"pulling a request"** because you essentially "pull" your changes into the original repository that you forked. 
 
-1️⃣ Go now to your Github repo page online.
+1️⃣ Go now to your GitHub repo page online.
 2️⃣ Click on the `Contribute` button.
 3️⃣ Click on `Open pull request`
 
