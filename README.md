@@ -148,10 +148,6 @@ In "GitHub language", this is called **"pulling a request"** because you essenti
 
 Congraaaaaaaats! ⭐️
 
-<p align="center">
-  <img src="![giphy](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/7c890820-9c04-41d7-814b-7a30d60bcb89)" alt="animated" />
-</p>
-
 You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
 
 
