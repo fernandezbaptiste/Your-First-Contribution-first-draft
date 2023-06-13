@@ -38,12 +38,14 @@ Now that you have the copy on your own account, let's download the entire projec
 
 ## 2. Clone the repository
 
-After step 1, you will land on your forked repo page, here you will see a `<>` button marked in green, click on it and copy the URL.
+*- After step 1, you will land on your forked repo page, here you will see a `<>` button marked in green, click on it.
+*- Then click on the `double square` (highlighted in red below) to copy the URL.
 
 <img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
 
-Open your terminal and through it move to a folder of your choice. 📁
-Then run the following git command:
+*- Open your terminal 
+*- Use your terminal to move to a folder where you want to put the cloned project - using more technical language, this is called moving to a directory of your choice. 📁 
+*- Then run the following git command:
 
 `git clone "url you just copied"`
 
@@ -51,7 +53,7 @@ Then run the following git command:
 
 The entire project is now on your computer! 
 
-On your terminal, make sure that you are in the project by running:
+Open your terminal make sure that you are in the project by running:
 `cd Your-First-Contribution`
 
 Now open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
