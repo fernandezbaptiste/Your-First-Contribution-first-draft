@@ -14,7 +14,7 @@ What does that mean in normal language? 🙈
 2. Clone: **Download the project** from Github on your computer
 3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
 4. Push: **Update and send the changes** to your online Github repository
-5. Pull: **Send your contribution to the original Github repository** (for them to later review..)
+5. Pull: **Send your contribution to the original Github repository**
 
 That may sound a bit intimidating, but don't worry I got you! 👯‍♀️
 
@@ -38,16 +38,19 @@ Now that you have the copy on your own account, let's download the entire projec
 
 ## 2. Clone the repository
 
-*- After step 1, you will land on your forked repo page, here you will see a `<>` button marked in green, click on it.
-*- Then click on the `double square` (highlighted in red below) to copy the URL.
+☑️ After step 1, you will land on your forked repo page, here you will see a `<>` button marked in green, click on it.
+☑️ Then click on the button looking like a `double square` (highlighted in red below) to copy the URL.
 
 <img width="411" alt="Screenshot 2023-05-29 at 11 47 49" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/4a0f5bbc-854a-4df0-845d-fa8266414264">
 
-*- Open your terminal 
-*- Use your terminal to move to a folder where you want to put the cloned project - using more technical language, this is called moving to a directory of your choice. 📁 
-*- Then run the following git command:
+☑️ Open your terminal 
+☑️ Use your terminal to move to a folder where you want to put the cloned project (using more technical language, this is called moving to a directory of your choice). 📁 
+☑️ Then type `git clone` and then paste the URL copied earlier
 
-`git clone "url you just copied"`
+You normally should have written 
+`git clone https://github.com/fernandezbaptiste/Your-First-Contribution.git`
+
+☑️ Press Enter
 
 ## 3. Open the File and Make changes
 
@@ -60,7 +63,7 @@ Now open the `OurStory.txt` file in a text editor or on your favourite IDE (aka 
 
 Here you will see the project which you will contribute to. 💪
 
-The project is ***a story told by many developers around the planet - one contribution at a time! 🎙️ ***
+The project is ***a story told by many developers around the planet - one contribution at a time! 🎙️***
 
 This means each sentence you are reading was written in the past by different coders out there. 👩‍💻
 
