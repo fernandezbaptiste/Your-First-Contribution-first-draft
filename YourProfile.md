@@ -17,105 +17,105 @@
                     <sub><b>Baptiste Fernandez</b></sub>
                 </a> 
             </td>
-             <td align="center">
-                <a href="https://hsrah00.github.io/Harsh/">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Harsh Pandey</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Vivek Thakur</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Preetiraj3697">
-                    <img src="https://avatars.githubusercontent.com/u/107460745?v=4" width="100px;" alt="Preeti Raj"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Preeti Raj</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Kandi-Venkatesh99">
-                    <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Venkatesh k</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
-           <td align="center">
-                <a href="https://github.com/sahil-ansari01">
-                    <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Sahil Ansari"/>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Sahil Ansari</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
         </tr> 
         <tr>
             <td align="center">
-                <a href="https://github.com/Shino-Shaji">
-                    <img src="https://avatars.githubusercontent.com/u/102040447?v=4" width="100px;" alt="Shino Shaji"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Shino Shaji</b></sub>
-                </a>
-            </td>
-            <td align="center">   
-                <a href="https://github.com/Anujsharma002">
-                    <img src="https://avatars.githubusercontent.com/u/115893185?v=4" width="100px;" alt="Anuj sharma"/>
-                    <br />
-                    <sub><b>Anuj sharma</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/akshaykamath45">
-                    <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Akshay Kamath</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/kaushal016">
-                    <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Kaushal Lohar</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://www.ashirwadshetye.com">
-                    <img src="https://avatars.githubusercontent.com/u/99337222?v=4" width="100px;" alt="Ashirwad Shetye"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Ashirwad Shetye</b></sub>
-                </a>
-             </td>
-             <td align="center">
-                <a href="https://www.linkedin.com/in/mukesh-mallula-bbab8b1aa/">
-                 <img src="https://avatars.githubusercontent.com/u/117512070?v=4" width="100px;" alt="Mukesh Mallula"/>
-                    <br />
-                    <sub><b>Mukesh Mallula</b></sub>
-                </a>
-             </td>
-             <td align="center">
-                <a href="https://github.com/nagasaipurvaz">
-                    <img src="https://avatars.githubusercontent.com/u/68222105?s=400&u=5469ebc36d12828efbef25500427568051369196&v=4" width="100px;" alt="Naga sai purvaz"/>
-                    <br />
-                    <sub><b>Naga Sai Purvaz</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/zsank">
-                    <img src="https://avatars.githubusercontent.com/u/123537240?v=4" width="100px;" alt="Sanket Zade"/>
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
                     <br />
-                    <sub><b>Sanket Zade</b></sub>
-                </a>
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
+                    <br />
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
+                    <br />
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/fernandezbaptiste">
+                    <img src="https://avatars.githubusercontent.com/u/83458751?v=4" width="100px;" alt="Baptiste Fernandez"/>
+                    <br />
+                    <sub><b>Baptiste Fernandez</b></sub>
+                </a> 
             </td>
         </tr>
         
