@@ -48,7 +48,7 @@ Fork means you will create a copy of this repository in your own Github account.
 
 4️⃣ Use your terminal to move to a folder where you want to put the cloned project (using more technical language, this is called moving to a directory of your choice). 📁 
 
-5️⃣ Then type `git clone` and then paste the URL copied earlier
+5️⃣ Type `git clone` and then paste the URL copied earlier
 
 You normally should have written 
 `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
@@ -59,10 +59,9 @@ You normally should have written
 
 The entire project is now on your computer! 
 
-Open your terminal make sure that you are in the project by running:
-`cd Your-First-Contribution`
+1️⃣ Open your terminal make sure that you are in the project by running: `cd Your-First-Contribution`
 
-Now open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
+2️⃣ Open the `OurStory.txt` file in a text editor or on your favourite IDE (aka VS Code, Atom, PyCharm, Sublime etc). 
 
 Here you will see the project which you will contribute to. 💪
 
@@ -72,9 +71,9 @@ This means each sentence you are reading was written in the past by different co
 
 And now it's your turn to add the next sentence! 👩‍🎨
 
-Think of something that would make sense in the storyline and write one or two sentences.
+3️⃣ Think of something that would make sense in the storyline and write one or two sentences.
 
-When done, save the file!
+4️⃣ When done, save the file!
 
 ## 4. Upload your changes to your online Github repo
 
@@ -85,14 +84,11 @@ In summary here we want to:
 - 💬 add a commit message (which helps tell other devs what you have changed) and 
 - 💾 push the changes to your online Github repository. 
 
-So in your terminal, run the following command:
-`git add .` 
+1️⃣ So in your terminal, run the following command: `git add .` 
 
-After that run:
-`git commit -m "description of what you changed/added"`
+2️⃣ After that, run: `git commit -m "description of what you changed/added"`
 
-Finally, run:
-`git push` 
+3️⃣ Finally, run: `git push` 
 
 At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
@@ -102,7 +98,17 @@ For your password, ever since Aug 2021, it is a personal token you need to write
 Don't worry though, let's get your token together. ☺️
 
 To get this token, head on Github to: 
-`profile setting` -> `developer setting` -> `Personal Access Tokens (Token Classic)` -> `Generate new token (classic)` -> give a name e.g "authentification token" -> select the scopes you want (for ease you can select all of them) -> click on `Generate token`
+1️⃣ Click on `profile setting` 
+2️⃣ Click on `developer setting` 
+3️⃣ Click on `Personal Access Tokens (Token Classic)`
+4️⃣ Click on `Generate new token (classic)`
+
+This is where you should arrive at this point ⬇️:
+<img width="1439" alt="Screenshot 2023-06-13 at 12 02 23" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/3711a399-6d47-4861-8505-930330784d53">
+
+5️⃣ Give a name e.g "authentification token"
+6️⃣ Select the scopes you want (for ease you can select all of them) 
+7️⃣ Click on `Generate token`
 
 Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
 
@@ -115,7 +121,9 @@ All we need to do is now send over our changes to the original repository to mak
 
 In "Github language", this is called **"pulling a request"** because you essentially "pull" your changes into the original repository that you forked. 
 
-Go now to your Github repo page online, click on the `Contribute` button and then `Open pull request` 
+1️⃣ Go now to your Github repo page online
+2️⃣ Click on the `Contribute` button 
+3️⃣ Click on `Open pull request` 
 
 ![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
 *This is an example of pulling a request for another repo so don't worry about the name being different*
