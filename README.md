@@ -113,13 +113,14 @@ At this point, if this is your first time, GitHub will ask you to authenticate y
 - Give a name e.g "authentification token"
 
 At this point, you should be here ⬇️:
+
 <img width="1439" alt="Screenshot 2023-06-13 at 12 02 23" src="https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/3711a399-6d47-4861-8505-930330784d53">
 
 6️⃣ Select the scopes you want (for ease you can select all of them).
 
 7️⃣ Click on `Generate token`
 
-8️⃣ Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 
+8️⃣ Your token will be displayed and you will be able to paste it into your terminal after which your push should have been successful! 🎉
 
 
 ## 5. Time to contribute! Send your changes from your online repo to the original repo 
@@ -131,7 +132,9 @@ All we need to do is now send over our changes to the original repository to mak
 In "GitHub language", this is called **"pulling a request"** because you essentially "pull" your changes into the original repository that you forked. 
 
 1️⃣ Go now to your GitHub repo page online.
+
 2️⃣ Click on the `Contribute` button.
+
 3️⃣ Click on `Open pull request`
 
 ![Screenshot 2023-06-09 at 12 18 06](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/06737cdf-5e77-456b-9dd8-5a6fe12b0769)
@@ -139,27 +142,26 @@ In "GitHub language", this is called **"pulling a request"** because you essenti
 
 --
 
-You will then title your pull request with your *"Name Surname - adding my part of the story"* and you can leave the comment section blank.
+4️⃣ You will then title your pull request with your *"Name Surname - adding my part of the story"* and you can leave the comment section blank.
 
-Click `Create pull request` and that's it you have made your first contribution!! 🚀👯‍♀️
+5️⃣ Click `Create pull request` and that's it you have made your first contribution!! 🚀👯‍♀️
+
+Congraaaaaaaats! ⭐️
+
+![giphy](https://github.com/fernandezbaptiste/Your-First-Contribution/assets/83458751/7c890820-9c04-41d7-814b-7a30d60bcb89)
+
+You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request?
 
 
-I know, crazy right? 
-
-
-You may be thinking, I thought I would be taken to the repository straight away but I'm left with the status of the pull request.
-
-
-YES, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
-
-Well done on this friend! 
+**YES**, this is because now we will review the best sentences added and accept the ones we think are cool and relevant to the story! 
 
 All in all, contributions happen in this way where the maintainer(s) of the original repository (aka the people that are in charge of the repo) check your contributions and either end up accepting them or giving you feedback on what changes they need from you. 
 
+So sit back and relax as you have just done everything you needed!
 
 We know it is always super tough the first time and it's really cool you got to this point - so proud of you! 👯‍♀️💚
 
 
-Now if you are ready to continue and start contributing to other projects, we have compiled a list of projects with easy issues you can get started on. Check out the list of projects on [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
+If you are ready to start contributing to other projects, we have compiled a list of projects with easy issues you can get started on. Check out the list of projects on [quine.sh](https://quine.sh/?utm_source=github&utm_campaign=first_time_contribution)🚀
 
 If you haven't yet, you could join our [discord team](https://discord.com/invite/ChAuP3SC5H/?utm_source=github&utm_campaign=first_time_contribution) if you need any help or have any questions. 🫶
