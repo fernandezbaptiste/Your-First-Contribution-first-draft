@@ -89,7 +89,7 @@ Finally, run:
 At this point, if this is your first time, Github will ask you to authenticate yourself with your username and password. 🔐
 
 Write out your Github username first. 
-For your password, ever since Agu 2021, it is a personal token you need to write (and not your actual password!). 
+For your password, ever since Aug 2021, it is a personal token you need to write (and not your actual password!). 
 
 Don't worry though, let's get your token together. ☺️
 
