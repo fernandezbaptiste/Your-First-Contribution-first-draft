@@ -12,15 +12,16 @@ Now when contributing, we want to:
 
 ### Now, what does that mean in normal language? 🙈
 
-1. Fork: Make a **copy of the project** on your GitHub account 
-2. Clone: **Download the project** from GitHub on your computer
-3. Edit: That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
-4. Push: **Update and send the changes** to your online GitHub repository
-5. Pull: **Send your contribution to the original GitHub repository**
+1. Fork ➡️ Make a **copy of the project** on your GitHub account 
+2. Clone ➡️ **Download the project** from GitHub on your computer
+3. Edit ➡️ That's self-explanatory - here you will **help us write the Greatest Story the World has Ever heard!! 🔥** 
+4. Push ➡️ **Update and send the changes** to your online GitHub repository
+5. Pull ➡️ **Send your contribution to the original GitHub repository**
 
 That may sound a bit intimidating, but don't worry I got you! 👯‍♀️
 
-Also if you are wondering, YES, this is how all the devs in the world contribute to software projects online! 
+Also if you are wondering:
+**YES**, this is exactly how all the devs in the world contribute to software projects online! 
 
 So in this project, you will have a great understanding of the mechanics behind GitHub so that you are ready for your future contributions! 
 
